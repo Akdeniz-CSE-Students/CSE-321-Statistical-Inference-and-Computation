@@ -34,5 +34,6 @@ Ch. 10 ANOVA (p. 532), Ch. 11 simple linear regression (p. 614).
 | [`exams/prep/`](../exams/prep/) | The instructor's own pre-exam problem sets — start here |
 | [`exams/practice/`](../exams/practice/) | Practice exams from other courses (STT 351, EEM 209, ME_A 2023/2024, a comprehensive set) |
 | [`exams/past/2024-2025-probability/`](../exams/past/2024-2025-probability/) | 22 photographs of a probability exam, Nov 2024 |
-| [`exams/past/unsorted/`](../exams/past/unsorted/) | A stats final, a problem set, and photographs from Jan 2026 |
+| [`exams/past/2025-2026/final-group-b/`](../exams/past/2025-2026/final-group-b/) | The Group B final, photographed 16/01/2026 |
+| [`exams/past/undated/`](../exams/past/undated/) | A stats final with no year on it |
 | [`resources/supplement/`](../resources/supplement/) | Seven topic summaries covering descriptive statistics through hypothesis testing |
