@@ -6,11 +6,10 @@ Akdeniz University · Computer Engineering (English)
 sets, past exam photographs, and the problem sets the instructor hands out before
 each exam.
 
-The instructor's own material titles the course **"CSE 321 Introduction to
-Probability Theory"** — the official course name and the taught content differ
-slightly. The taught syllabus is the one in
-[`resources/lecture-notes/00-course-info.pdf`](resources/lecture-notes/00-course-info.pdf)
-and is what [`weeks/`](weeks/) follows.
+The instructor's slides are headed "CSE 321 Introduction to Probability Theory",
+which is the lecturer's own title for the material. The taught schedule is the one
+in [`resources/lecture-notes/00-course-info.pdf`](resources/lecture-notes/00-course-info.pdf),
+and that is what [`weeks/`](weeks/) follows.
 
 ## Course
 
