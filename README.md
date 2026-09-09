@@ -75,6 +75,19 @@ that line is shared; below it is yours.
 | [`exams/past/`](exams/past/) | Photographs of real papers |
 | [`terms/`](terms/) | One folder per cohort — put your term's material here |
 
+## Who changes what
+
+| File | Who edits it | When |
+|------|-------------|------|
+| `weeks/NN-*.md` | **anyone** | Only when the course itself changes — a new topic, a better reading, a correction. Never for personal notes. |
+| `docs/*.md` | **anyone** | When you learn something durable: a new exam pattern, a better source. |
+| `terms/<your-term>/notes/week-NN.md` | **only you** | Every week. This is your notebook. |
+| `terms/<your-term>/` | **only you** | Your slides, labs, assignments, submissions. |
+| `exams/past/<term>/` | **anyone** | When you get hold of a new paper. |
+
+Two students in different years never touch the same file except to improve the
+shared plan — which is the point.
+
 ## Contributing
 
 Taking the course now? Create `terms/<YYYY>-<YYYY>-<term>/` with a `README.md`

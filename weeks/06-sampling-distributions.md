@@ -31,12 +31,7 @@
 - [ ] Textbook chapter read
 - [ ] Exercises done
 
-## My notes
+---
 
-<!-- Lecture: what was actually covered. -->
-
-<!-- Worked examples and formulas. -->
-
-<!-- Questions to ask. -->
-
-<!-- Exam-worthy: which test/formula applies when. -->
+Your own notes for this week go in `terms/<your-term>/notes/week-06.md`, not here.
+This file is the shared plan — improve it if the course changes, but keep it general.
